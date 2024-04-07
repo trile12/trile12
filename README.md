@@ -28,6 +28,7 @@ I publish that content on my YouTube channel "[WPF UI][youtube]" and hope it wil
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![C# WPF UI | How to design Riots Client - League Of Legends in WPF](https://ytcards.demolab.com/?id=ZjuU8j6v3H0&title=C%23+WPF+UI+%7C+How+to+design+Riots+Client+-+League+Of+Legends+in+WPF&lang=en&timestamp=1677946593&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "C# WPF UI | How to design Riots Client - League Of Legends in WPF")](https://www.youtube.com/watch?v=ZjuU8j6v3H0)
 <!-- END YOUTUBE-CARDS -->
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@wpfuivn?sub_confirmation=1)
 
