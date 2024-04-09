@@ -1,8 +1,9 @@
 # 🐱‍💻 Tris Lee
-
 **`C# Developer`**
-
-I am a C# developer, I will update personal projects or content and post them on youtube.
+--- 
+Hi there 👋
+---
+My name is Tri and I'm a C# developer. I'm passionate about creating beautiful, responsive and user-friendly application using the WPF technologies. On this GitHub profile, you'll find some of my personal projects and contributions to projects that showcase my skills and knowledge. In addition, I am developing WPF content on YouTube, I will update personal projects and post them publicly.
 All coding projects are built from the ground up, from planning and design to solving real problems with code.
 I publish that content on my YouTube channel "[WPF UI][youtube]" and hope it will grow in the future
 
@@ -40,3 +41,6 @@ I publish that content on my YouTube channel "[WPF UI][youtube]" and hope it wil
 <details>
  <summary><h3>👨‍💻 Tris Lee's Coding Journey</h3></summary>
    Updating...
+
+
+   [youtube]: https://www.youtube.com/@wpfuivn
