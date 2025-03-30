@@ -47,7 +47,7 @@ I publish that content on my YouTube channel "[WPF UI][youtube]" and hope it wil
 </details>
    
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trile12/trile12/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trile12/trile12/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/trile12/trile12/output/github-snake.svg" />
 </picture>
